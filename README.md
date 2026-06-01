@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aashif786&label=Profile+Views&color=00C9A7&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=ashikq386&label=Profile+Views&color=00C9A7&style=flat-square" align="right" />
 
 <!-- HERO: wave background + clean name + orbit animation -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
@@ -62,10 +62,6 @@ status     : Open to Internships & Collaborations
  
 <br/>
 <br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"  width="390" />
-
-<br/>
-> I build systems that think — from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
 <br/>
 
 </td>
