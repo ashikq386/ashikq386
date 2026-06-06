@@ -284,9 +284,9 @@ status     : Open to Internships & Collaborations
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="93" />
 
-### Recruitment Intelligence & Management System
+### Geo-Fencing Based Attendance Tracking System
 
-*RIMS*
+*PYTHON*
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -297,11 +297,11 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, role-based dashboards, and agentic AI evaluation workflows for modern enterprise hiring.
+Developed a mobile application that uses geo-fencing technology to automatically record attendance when users enter a designated location. The system improves attendance accuracy, reduces manual effort, and helps prevent proxy attendance through location-based verification.
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Recruitment_Intelligence_and_Management_System)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikq386/face_recogonition_attendance_system)
 
 <br/>
 
@@ -314,7 +314,7 @@ An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, r
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="64" />
 
-### AI Coding Assistant
+### JuSTOrder App
 
 <br/>
 
@@ -326,11 +326,12 @@ An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, r
 
 <br/>
 
-An intelligent developer-support platform combining LLMs, tool-assisted reasoning, and code analysis pipelines for contextual debugging, logic explanation, and AI-driven development workflows.
+Developed a food delivery application that allows users to browse restaurants and place orders online.
+Implemented features such as menu management, order tracking, and a user-friendly interface.
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Coding_Assistant)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikq386/JuSTOrder-App)
 
 <br/>
 
@@ -346,7 +347,7 @@ An intelligent developer-support platform combining LLMs, tool-assisted reasonin
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="64" />
 
-### Agricultural Price Prediction System
+### Blog Website with Infographics
 
 <br/>
 
@@ -358,11 +359,11 @@ An intelligent developer-support platform combining LLMs, tool-assisted reasonin
 
 <br/>
 
-A machine learning forecasting platform predicting agricultural commodity prices using historical datasets, feature engineering, statistical modeling, and visualization for data-driven economic insights.
+Developed a responsive blog website featuring visually engaging infographics and graphical content to enhance user understanding.
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Price-Prediction-Model-for-Agricultural-Products)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikq386/blog-website)
 
 <br/>
 
@@ -391,7 +392,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Projects/tree/main/Flood%20Prediction)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 <br/>
 
@@ -425,7 +426,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashif786&theme=react-dark&bg_color=0D1117&color=00C9A7&line=00C9A7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashikq386&theme=react-dark&bg_color=0D1117&color=00C9A7&line=00C9A7&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -483,7 +484,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <div align="center">
 
-<a href="https://github.com/Aashif786">
+<a href="https://github.com/ashikq386">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
@@ -521,6 +522,6 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/>
 
-*Made with care and lots of coffee — Aashif Shadin*
+*Made with care and lots of coffee — Mohammed Ashikq*
 
 </div>
