@@ -457,7 +457,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/ashikq">
+<a href="https://www.linkedin.com/in/ashikq/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
